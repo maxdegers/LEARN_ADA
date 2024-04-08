@@ -9,3 +9,4 @@ FOR CLEANING
 FOR EXEC
     bash
         -> ./file_name
+        -> gprclean -q -P main.gpr
